@@ -1,4 +1,2 @@
 # hello-word
-learn git 
-现在还有点糊涂
-有点傻了
+欢迎您来到我的世界
